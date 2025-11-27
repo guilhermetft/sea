@@ -1,0 +1,23 @@
+{
+  "name": "sea",
+  "version": "1.0.0",
+  "description": "O \"sea\" é um launcher de emuladores focado em unificar a experiência de jogos retrô\r em um único ecossistema, começando com Game Boy Advance e Nintendo DS no Windows.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermetft/sea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermetft/sea/issues"
+  },
+  "homepage": "https://github.com/guilhermetft/sea#readme"
+}
