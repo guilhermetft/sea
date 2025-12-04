@@ -11,8 +11,6 @@ A proposta é eliminar a necessidade de vários programas, atalhos e configuraç
 - mGBA (GBA)
 - melonDS (Nintendo DS)
 
-> Este projeto não distribui ROMs ou BIOS.
-
 # Código
 
 * <a href="src/01-Codigo.md">Código</a>
