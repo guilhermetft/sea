@@ -1,4 +1,4 @@
-SEA – Simple Emulator Architecture
+# SEA – Simple Emulator Architecture
 O SEA é um launcher de videogames criado para centralizar e simplificar a experiência de jogos clássicos em um único lugar.
 A proposta é eliminar a necessidade de vários programas, atalhos e configurações espalhadas, oferecendo uma interface prática e organizada para rodar emuladores e jogos antigos.
 
@@ -7,7 +7,7 @@ A proposta é eliminar a necessidade de vários programas, atalhos e configuraç
 - Centralizar biblioteca de jogos
 - Abstrair a complexidade dos emuladores
 
-## Emuladores suportados (MVP)
+## Emuladores suportados
 - mGBA (GBA)
 - melonDS (Nintendo DS)
 
@@ -15,7 +15,7 @@ A proposta é eliminar a necessidade de vários programas, atalhos e configuraç
 
 # Código
 
-* <a href="src/README.md">Código</a>
+* <a href="src/01-Codigo.md">Código</a>
 
 # Instrução de utilização
 
