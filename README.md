@@ -17,6 +17,6 @@ A proposta é eliminar a necessidade de vários programas, atalhos e configuraç
 
 * <a href="src/README.md">Código</a>
 
-# Apresentação
+# Instrução de utilização
 
-* <a href="presentation/README.md">Apresentação do projeto</a>
+* <a href="docs/01-Instrucao-de-utilizacao.md">Instruções</a>
