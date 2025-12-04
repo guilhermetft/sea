@@ -1,5 +1,6 @@
-O "sea" é um launcher de emuladores focado em unificar a experiência de jogos retrô
-em um único ecossistema, começando com Game Boy Advance e Nintendo DS no Windows.
+SEA – Simple Emulator Architecture
+O SEA é um launcher de videogames criado para centralizar e simplificar a experiência de jogos clássicos em um único lugar.
+A proposta é eliminar a necessidade de vários programas, atalhos e configurações espalhadas, oferecendo uma interface prática e organizada para rodar emuladores e jogos antigos.
 
 ## Objetivo
 - Alternar facilmente entre consoles
@@ -11,3 +12,11 @@ em um único ecossistema, começando com Game Boy Advance e Nintendo DS no Windo
 - melonDS (Nintendo DS)
 
 > Este projeto não distribui ROMs ou BIOS.
+
+# Código
+
+* <a href="src/README.md">Código</a>
+
+# Apresentação
+
+* <a href="presentation/README.md">Apresentação do projeto</a>
